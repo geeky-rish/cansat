@@ -38,3 +38,12 @@ Before you begin, ensure you have the following software installed:
 ### Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+
+### License
+
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
+
+Copyright Notice
+Copyright (C) 2024 geeky-rish (Legal name: Rishi P Kulkarni). All rights reserved.
+
+This project is free to use and modify, but it must remain under the same license terms. Redistribution and commercial use are not allowed.
